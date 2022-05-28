@@ -1,0 +1,24 @@
+.carousel-inner {
+  height: 600px;
+  margin: 2.2rem 0;
+  position: relative;
+}
+
+.search {
+  width: 18.75rem;
+  // width: 100vw;
+  position: absolute;
+  top: 38.9%;
+  left: 25.5%;
+  // background-color: red;
+  z-index: 10;
+  display: inline-block;
+  &__box {
+    border: none;
+    height: 3.5rem;
+    width: 55.5rem;
+    border-radius: 1rem;
+    // background-color: ;
+    color: #fff;
+  }
+}
